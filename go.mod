@@ -1,3 +1,3 @@
-module github.com/ellyj164/waservix-go
+module github.com/tekservixhq/waservix-go
 
 go 1.21

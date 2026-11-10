@@ -1,6 +1,6 @@
 # WAservix Go client
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/ellyj164/waservix-go.svg)](https://pkg.go.dev/github.com/ellyj164/waservix-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/tekservixhq/waservix-go.svg)](https://pkg.go.dev/github.com/tekservixhq/waservix-go)
 
 Go client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/).
 
@@ -13,7 +13,7 @@ WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web do
 ## Install
 
 ```bash
-go get github.com/ellyj164/waservix-go
+go get github.com/tekservixhq/waservix-go
 ```
 
 ## Quick start
@@ -29,7 +29,7 @@ import (
 	"log"
 	"os"
 
-	waservix "github.com/ellyj164/waservix-go"
+	waservix "github.com/tekservixhq/waservix-go"
 )
 
 func main() {
@@ -116,7 +116,7 @@ WAservix is not Meta's official WhatsApp Business Platform. There's no business 
 
 ## More from Tekservix
 
-- [SMS Gora SMS Gateway](https://tekservix.com/smsgora/): send SMS through your own Android phones (`go get github.com/ellyj164/smsgora-go`)
+- [SMS Gora SMS Gateway](https://tekservix.com/smsgora/): send SMS through your own Android phones (`go get github.com/tekservixhq/smsgora-go`)
 - [AI Sales Agent](https://tekservix.com/ai-sales-agent): answers customers on WhatsApp and SMS using your website's content
 - [Website to App](https://tekservix.com/mobile-apps): turn your website into Android and iOS apps
 - WAservix is also available for Node.js (`npm install waservix`), Python (`pip install waservix`) and PHP (`composer require tekservix/waservix`)

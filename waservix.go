@@ -23,7 +23,7 @@ import (
 )
 
 // Version of this client.
-const Version = "1.0.0"
+const Version = "1.0.1"
 
 // DefaultBaseURL is the WAservix API endpoint.
 const DefaultBaseURL = "https://tekservix.com/waservix/api"
